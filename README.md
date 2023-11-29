@@ -11,9 +11,11 @@ The project is structured as a Laravel web application, utilizing the Laravel fr
 
 ## Total Three Pages.
 <ol>
-<li>Welcome Page ('welcome.blade.php'): Provides an introduction to the application, authentication links, and essential information. It serves as the entry point for users.
+<li> Welcome Page: 
+<ul>If not logged in:
+  - Login and Registration options.</ul>
 
-<li>Home Page ('home.blade.php'): After login, users are directed to the home page, welcoming them and offering a convenient logout option.
+<li> Home Page: After login, users are directed to the home page, welcoming them and offering a convenient logout option.
 
-<li>Product Management Page (products.blade.php): Dedicated to managing products with CRUD operations. Users can navigate back to the homepage from here.
+<li> Product Management Page: Dedicated to managing products with CRUD operations. Users can navigate back to the homepage from here.
 </ol>
