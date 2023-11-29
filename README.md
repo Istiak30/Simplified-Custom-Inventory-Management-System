@@ -31,10 +31,10 @@ If logged in -
 
 <ul><li>CRUD operations for product details.</li>
     
-- Add Product.
-- View Product.
-- Edit Product.
-- Delete Product.
+- Add Product option.
+- View Product option.
+- Edit Product option.
+- Delete Product option.
     
 <li>Logout option.</li>
 <li>Back to Homepage option.</li>
