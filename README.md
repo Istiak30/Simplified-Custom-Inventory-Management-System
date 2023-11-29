@@ -29,12 +29,16 @@ If logged in -
 
 <li> Product Management Page: 
 
-CRUD operations for product details.
-  - Add Product.
-  - View Product.
-  - Edit Product.
-  - Delete Product.
-- Logout option.
-- Back to Homepage option.
+<ul><li>CRUD operations for product details.</li>
+    
+- Add Product.
+- View Product.
+- Edit Product.
+- Delete Product.
+    
+<li>Logout option.</li>
+<li>Back to Homepage option.</li>
+
+</ul>
 
 </ol>
