@@ -19,7 +19,22 @@ If not logged in -
 If logged in -
     <ul><li>Manage Inventory and Logout options.</ul>
 
-<li> Home Page: After login, users are directed to the home page, welcoming them and offering a convenient logout option.
+<li> Home Page:
+    
+<ul>
+    <li>Welcome Dashboard with Build Requirements.</li>
+    <li>Manage Inventory option.</li>
+    <li>Back to Welcome Page option.</li>
+</ul>
 
-<li> Product Management Page: Dedicated to managing products with CRUD operations. Users can navigate back to the homepage from here.
+<li> Product Management Page: 
+
+CRUD operations for product details.
+  - Add Product.
+  - View Product.
+  - Edit Product.
+  - Delete Product.
+- Logout option.
+- Back to Homepage option.
+
 </ol>
