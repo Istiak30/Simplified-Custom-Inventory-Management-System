@@ -16,11 +16,11 @@ The project is structured as a Laravel web application, utilizing the Laravel fr
 <ul>
 <li>If not logged in:
     
-    Login and Registration options.
+- Login and Registration options.
     
 <li>If logged in:
     
-    Manage Inventory and Logout options.
+- Manage Inventory and Logout options.
 </ul>
 
 <li> Home Page:
