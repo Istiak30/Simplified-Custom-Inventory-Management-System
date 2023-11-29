@@ -8,3 +8,12 @@ The project is structured as a Laravel web application, utilizing the Laravel fr
 
 <li> Product Management: CRUD operations for product details (name, quantity, price).
 <li> User Authentication: Basic authentication system to manage access to CRUD operations.
+
+## Total Three Pages
+
+<ol>**Welcome Page (`welcome.blade.php`)**: Provides an introduction to the application, authentication links, and essential information. It serves as the entry point for users.
+
+<ol>**Home Page (`home.blade.php`)**: After login, users are directed to the home page, welcoming them and offering a convenient logout option.
+
+<ol>**Product Management Page (`products.blade.php`)**: Dedicated to managing products with CRUD operations. Users can navigate back to the homepage from here.
+
