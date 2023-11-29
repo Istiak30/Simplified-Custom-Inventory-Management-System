@@ -9,15 +9,17 @@ The project is structured as a Laravel web application, utilizing the Laravel fr
 <li> Product Management: CRUD operations for product details (name, quantity, price).
 <li> User Authentication: Basic authentication system to manage access to CRUD operations.
 
-## Total Three Pages.
+## Total Three Pages
 <ol>
 <li> Welcome Page: 
 
-If not logged in -
-    <ul><li>Login and Registration options.</ul>
+<ul>
+<li>If not logged in:
+    Login and Registration options.
     
-If logged in -
-    <ul><li>Manage Inventory and Logout options.</ul>
+<li>If logged in:
+    Manage Inventory and Logout options.
+</ul>
 
 <li> Home Page:
     
