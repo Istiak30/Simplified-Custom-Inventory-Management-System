@@ -12,8 +12,8 @@ The project is structured as a Laravel web application, utilizing the Laravel fr
 ## Total Three Pages.
 <ol>
 <li> Welcome Page: 
-<ul>If not logged in:
-  - Login and Registration options.</ul>
+<ul>If not logged in -
+  <li>Login and Registration options.</ul>
 
 <li> Home Page: After login, users are directed to the home page, welcoming them and offering a convenient logout option.
 
